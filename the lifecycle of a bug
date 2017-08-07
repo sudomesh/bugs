@@ -1,0 +1,72 @@
+The lifecycle of a bug from start to finish:
+A. Birth of a bug
+B. Assigning a bug
+C. Debugging
+
+
+A.
+BIRTH OF A BUG
+
+*** If you do not know how to format a bug, read the file in the main repo page called 'How to properly format a bug (Issue)' : 
+https://github.com/sudomesh/bugs/blob/master/How%20to%20properly%20format%20a%20BUG%20(Issue) ***
+
+A bug gets created when something is broken on the mesh. A list of bugs is primarily created:
+1. to keep track of issues,
+2. make sure that someone is taking care of each issue,
+3. and to keep track of issues' solutions.
+
+A good record of bugs has great potential to save devs a lot of time and energy.
+As such, it is often helpful to document bugs and solve them all by oneself.
+
+
+
+B.
+ASSIGNING A BUG
+
+Once a bug is written it needs to be assigned to someone who can solve it. In development settings, each bug often has a priority
+assigned it. Github does not have that, so if it's something important that whoever reports the bug cannot solve, grab someone you
+think knows how to solve it.
+
+A person can create a bug, assign it to self, document it's solution and close it all by his/herself, but it helps to have someone
+else assign and remind the dev.
+
+
+
+C.
+DEBUGGING
+
+The assignee has ownership of the bug. They should document the solution and any other relevent information
+by ***commenting on the issue's page***. This helps devs in the future A LOT. 
+
+On each bug page, there is a column on the right hand side that lists Assignee, Labels, Projects & Milestones. Under 'Labels':
+Labels:
+1. 'Help Wanted' and 'Question'- If the original assignee cannot solve the issue, they can use these labels to get the attention
+of someone else or a group.
+
+2. An 'enhancement' is a new feature or change in the current structure.
+
+3. 'wontfix' is a bug that is accepted as being part of the network. This may occur when it takes too much time to fix for the
+effect the bug has, or that it's a temporary state.
+
+4. 'invalid' is when a bug is simply not relevant. If the cause is that the bug is not properly describing the issue, the bug
+should be rewritten such that it does.
+
+5. 'duplicate' is self explanatory. We may want to keep a duplicate bug because it has valuable information, in which case the
+duplicate bug itself and the bug it duplicates should refer to each other in their bodies with urls.
+
+
+
+
+D.
+CLOSING THE BUG
+
+Resolving the bug does not happen once the bug is zapped!
+Once the asignee of a bug has worked it out, s/he needs to write out what was wrong and what they did, if s/he has
+not already done so. This happens in the comments section of the bug.
+
+After that, ping the person who wrote the bug and have a discussion about it. When the fix is acknowledged, the assigner should
+click on the 'Issues' tab to access the main Issues page, use the check box on the left of the bug's title, to the right of
+the title, click 'Mark as> Closed'.
+
+
+That's it. The bug has lived and died! Sing Danny Boy and pound a pint.
