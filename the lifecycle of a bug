@@ -2,6 +2,7 @@ The lifecycle of a bug from start to finish:
 A. Birth of a bug
 B. Assigning a bug
 C. Debugging
+D. Closing the bug
 
 
 A.
@@ -23,8 +24,10 @@ As such, it is often helpful to document bugs and solve them all by oneself.
 B.
 ASSIGNING A BUG
 
-Once a bug is written it needs to be assigned to someone who can solve it. In development settings, each bug often has a priority
-assigned it. Github does not have that, so if it's something important that whoever reports the bug cannot solve, grab someone you
+Once a bug is written it needs to be assigned to someone who can solve it. Whoever created the bug has ownership of the bug until
+it is assigned... unless s/he tells someone who wants to assign someone.
+
+In development settings, each bug often has a priority assigned it. Github does not have that, so if it's something important that whoever reports the bug cannot solve, grab someone you
 think knows how to solve it.
 
 A person can create a bug, assign it to self, document it's solution and close it all by his/herself, but it helps to have someone
@@ -69,4 +72,6 @@ click on the 'Issues' tab to access the main Issues page, use the check box on t
 the title, click 'Mark as> Closed'.
 
 
-That's it. The bug has lived and died! Sing Danny Boy and pound a pint.
+
+That's it. The bug has lived and died! Sing Danny Boy and pound a pint. 
+Good documentation saves a lot of unnecessary stress in the future. Love the documentation!
