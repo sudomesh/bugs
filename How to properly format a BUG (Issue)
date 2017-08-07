@@ -1,9 +1,13 @@
 For an example of a properly formatted bug, see ((( https://github.com/sudomesh/bugs/issues/1 )))
 
-Bugs/ issues go under the 'Issues' section of this repo. The 'Issues' tab is located between the '<> Code' and 'Pull requests' tabs.
-Each repo may have its own bugs, but this is the master list. A centralized list keeps everything more organized so we can all find it later.
+Bugs/ issues go under the 'Issues' section of this repo. The 'Issues' tab is located between the '<> Code' and 'Pull requests'
+tabs.
+Each repo may have its own bugs, but this is the master list. A centralized list keeps everything more organized so we can all find
+it later.
 
-When a new bug (issue) is created, the form will ask for a Title and a larger text body. Sometimes there will be accompanying images or files which will have to be attached to the bug. Please be aware that Github does not process some file formats. When in doubt, take screenshots.
+When a new bug (issue) is created, the form will ask for a Title and a larger text body. Sometimes there will be accompanying
+images or files which will have to be attached to the bug. Please be aware that Github does not process some file formats. When in
+doubt, take screenshots.
 
 Below is a description of each section of the bug:
 
@@ -16,7 +20,9 @@ A concise description of the issue in ONE SENTENCE.
 Body:
 ------------
 1.
-The first part of the body should be a more detailed textual description of the issue. Describe as much detail as necessary to properly describe the bug, but bear in mind that many people do not like reading long paragraphs. As well, this is just for documenting the bug and the actual work most likely requires talking to people in real life or over a messaging protocol.
+The first part of the body should be a more detailed textual description of the issue. Describe as much detail as necessary to
+properly describe the bug, but bear in mind that many people do not like reading long paragraphs. As well, this is just for
+documenting the bug and the actual work most likely requires talking to people in real life or over a messaging protocol.
 
 2.
 REPRODUCTION STEPS is the second part of the body. Use numbers to indicate individual steps.
