@@ -5,6 +5,7 @@ report sudomesh bugs or other issues here if you don't know where to put them
 
 Please update this list with new bugs, so this repo receives commits. Thanks!
 
+[#14 report network status on peoplesopen website](https://github.com/sudomesh/bugs/issues/14)   
 #13 no internet on private SSID unless node has direct uplink   
 #12 Static IP gets overriden by Dynamic IP on Raspberry PI   
 #11 add makenode config to connect a home node to internet via wifi   
